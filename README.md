@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iyioladebami
-- 👀 I’m interested in front end developmeny
+- 👀 I’m interested in front end development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on websites
 - 📫 How to reach me whatsapp 08149650431 email iyioladebami2007@gmail.com
